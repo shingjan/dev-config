@@ -11,7 +11,7 @@ alias ls='ls -GFh'
 
 #short cut for php server
 alias phpserver="php -S localhost:8000"
-
-
+alias ..="cd .."
+#should I put my ssh alias here? I dont think so
 #Python path
 #export PYTHONPATH="${PYTHONPATH}/usr/local/lib/python2.7/site-packages:/usr/lib/python2.7/site-packages"
